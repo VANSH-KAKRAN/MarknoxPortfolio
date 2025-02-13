@@ -87,7 +87,7 @@ function App() {
             <h3>Hello!</h3>
             <h2 className="main-name">I'm Vansh Kakran</h2>
             <p>
-              A <strong>React</strong> Developer
+              A <strong>Web</strong> Developer
             </p>
           </div>
         </section>
