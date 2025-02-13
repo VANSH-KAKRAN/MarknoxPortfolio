@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
   return (
-    <div>
+    <div style={{overflowX:"hidden"}}>
       <nav id="navigation" className="navbar fixed-top navbar-expand-lg">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
